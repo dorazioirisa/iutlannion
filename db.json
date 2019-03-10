@@ -1,5 +1,5 @@
 {
-    "heros":[
+    "heroes":[
         {
             "id": 1,
             "heroName": "wolverine",
@@ -21,15 +21,21 @@
             "gender":"male",
             "features":["superhuman strength","healing factor"]
         }
-  ],
-  "mechants": [
-    {
-      "id": 1,
-      "nom": "venom"
-    },
-    {
-      "id": 2,
-      "nom": "magneto"
-    }
-  ]
+    ],
+    "villains": [
+        {
+            "id": 1,
+            "villainName": "venom",
+            "familyName":"broke",
+            "gender":"male",
+            "features":["superhuman agility","superhuman senses"]
+        },
+        {
+            "id": 2,
+            "villainName": "magneto",
+            "familyName":"Lehnsherr",
+            "gender":"male",
+            "features":["magnetism manipulation"]
+        }
+    ]
 }
