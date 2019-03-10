@@ -1,31 +1,26 @@
 {
-  "posts": [
+  "heros": [
     {
       "id": 1,
-      "title": "Post 1"
+      "nom": "spider-man"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "nom": "wolverine"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "nom": "hulk"
     }
   ],
-  "comments": [
+  "mechants": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nom": "venom"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "nom": "magneto"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
