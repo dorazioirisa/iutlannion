@@ -1,17 +1,26 @@
 {
-  "heros": [
-    {
-      "id": 1,
-      "nom": "spider-man"
-    },
-    {
-      "id": 2,
-      "nom": "wolverine"
-    },
-    {
-      "id": 3,
-      "nom": "hulk"
-    }
+    "heros":[
+        {
+            "id": 1,
+            "heroName": "wolverine",
+            "familyName":"howlett",
+            "gender":"male",
+            "features":["healing factor","superhuman senses"]
+        },
+        {
+            "id": 2,
+            "heroName":"spider-man",
+            "familyName":"parker",
+            "gender":"male",
+            "features":["superhuman agility","superhuman senses"]
+        },
+        {
+            "id": 3,
+            "heroName":"hulk",
+            "familyName":"banner",
+            "gender":"male",
+            "features":["superhuman strength","healing factor"]
+        }
   ],
   "mechants": [
     {
