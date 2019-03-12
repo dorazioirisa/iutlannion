@@ -2,6 +2,29 @@
     "stages":[
         {
             "id": 1,
+            "heroName": "nokia",
+            "familyName":"howlett",
+            "gender":"male",
+            "features":["healing factor","superhuman senses"]
+        },
+        {
+            "id": 2,
+            "heroName":"orange",
+            "familyName":"parker",
+            "gender":"male",
+            "features":["superhuman agility","superhuman senses"]
+        },
+        {
+            "id": 3,
+            "heroName":"open",
+            "familyName":"banner",
+            "gender":"male",
+            "features":["superhuman strength","healing factor"]
+        }
+    ],
+    "heroes":[
+        {
+            "id": 1,
             "heroName": "wolverine",
             "familyName":"howlett",
             "gender":"male",
