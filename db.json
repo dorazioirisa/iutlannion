@@ -6,7 +6,8 @@
             "nom":"martin",
             "entreprise":"nokia",
             "themes":["bdd","web"],
-            "gps":{"lat": 48.7333, "lng": -3.4667}        },
+            "gps":{"lat": 48.7333, "lng": -3.4667}
+        },
         {
             "idStage":"s2",
             "prenom":"paul",
