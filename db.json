@@ -1,5 +1,6 @@
 {
     "stages":[
+        "stages":[
         {
             "idStage":"s1",
             "prenom":"jean",
@@ -30,6 +31,14 @@
             "nom":"jezezquel",
             "entreprise":"prescom",
             "themes":["web","telecom"],
+            "gps":{"lat": 48.7333, "lng": -3.4667}
+        },
+        {
+            "idStage":"s4",
+            "prenom":"bob",
+            "nom":"smith",
+            "entreprise":"apitic",
+            "themes":["web","database"],
             "gps":{"lat": 48.7333, "lng": -3.4667}
         }
     ],
