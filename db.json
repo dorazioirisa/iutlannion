@@ -1,24 +1,41 @@
 {
-    "idStage":"s1",
-    "prenom":"jean",
-    "nom":"martin",
-    "entreprise":"nokia",
-    "themes":["bdd","web"],
-    "gps":{"lat": 48.7333, "lng": -3.4667}
-},
-{
-    "idStage":"s2",
-    "prenom":"paul",
-    "nom":"dupont",
-    "entreprise":"orange",
-    "themes":["reseaux","telecoms"],
-    "gps":{"lat": 48.7333, "lng": -3.4667}
-},
-{
-    "idStage":"s3",
-    "prenom":"marie",
-    "nom":"durant",
-    "entreprise":"open",
-    "themes":["web","mobile"],
-    "gps":{"lat": 48.7333, "lng": -3.4667}
+    "heroes":[
+        {
+            "id": 1,
+            "heroName": "wolverine",
+            "familyName":"howlett",
+            "gender":"male",
+            "features":["healing factor","superhuman senses"]
+        },
+        {
+            "id": 2,
+            "heroName":"spider-man",
+            "familyName":"parker",
+            "gender":"male",
+            "features":["superhuman agility","superhuman senses"]
+        },
+        {
+            "id": 3,
+            "heroName":"hulk",
+            "familyName":"banner",
+            "gender":"male",
+            "features":["superhuman strength","healing factor"]
+        }
+    ],
+    "villains": [
+        {
+            "id": 1,
+            "villainName": "venom",
+            "familyName":"broke",
+            "gender":"male",
+            "features":["superhuman agility","superhuman senses"]
+        },
+        {
+            "id": 2,
+            "villainName": "magneto",
+            "familyName":"Lehnsherr",
+            "gender":"male",
+            "features":["magnetism manipulation"]
+        }
+    ]
 }
