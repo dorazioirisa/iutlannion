@@ -2,22 +2,22 @@
     "stages":[
         {
             "id": 1,
-            "heroName": "nokia",
-            "familyName":"howlett",
+            "entreprise": "nokia",
+            "nom":"dupont",
             "gender":"male",
             "features":["healing factor","superhuman senses"]
         },
         {
             "id": 2,
-            "heroName":"orange",
-            "familyName":"parker",
+            "entreprise":"orange",
+            "nom":"durant",
             "gender":"male",
             "features":["superhuman agility","superhuman senses"]
         },
         {
             "id": 3,
-            "heroName":"open",
-            "familyName":"banner",
+            "entreprise":"open",
+            "nom":"martin",
             "gender":"male",
             "features":["superhuman strength","healing factor"]
         }
