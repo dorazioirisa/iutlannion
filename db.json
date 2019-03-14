@@ -5,7 +5,7 @@
             "prenom":"jean",
             "nom":"martin",
             "entreprise":"nokia",
-            "adress":{
+            "adresse":{
                 "numero":2,
                 "rue":"Rue Louis de Broglie",
                 "cp":22300,
@@ -21,6 +21,14 @@
             "prenom":"paul",
             "nom":"dupont",
             "entreprise":"orange",
+            "adresse":{
+                "numero":2,
+                "rue":"Rue Louis de Broglie",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7333, "lng": -3.4667}
+            },
             "themes":["reseaux","telecoms"],
             "gps":{"lat": 48.7333, "lng": -3.4667}
         },
@@ -29,6 +37,14 @@
             "prenom":"marie",
             "nom":"durant",
             "entreprise":"open",
+            "adresse":{
+                "numero":2,
+                "rue":"Rue Louis de Broglie",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7333, "lng": -3.4667}
+            },
             "themes":["web","mobile"],
             "gps":{"lat": 48.7333, "lng": -3.4667}
         },
@@ -37,6 +53,14 @@
             "prenom":"alice",
             "nom":"jezezquel",
             "entreprise":"prescom",
+            "adresse":{
+                "numero":2,
+                "rue":"Rue Louis de Broglie",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7333, "lng": -3.4667}
+            },
             "themes":["web","telecom"],
             "gps":{"lat": 48.7333, "lng": -3.4667}
         },
@@ -45,6 +69,14 @@
             "prenom":"bob",
             "nom":"smith",
             "entreprise":"apitic",
+            "adresse":{
+                "numero":2,
+                "rue":"Rue Louis de Broglie",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7333, "lng": -3.4667}
+            },
             "themes":["web","database"],
             "gps":{"lat": 48.7333, "lng": -3.4667}
         }
