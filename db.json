@@ -5,6 +5,14 @@
             "prenom":"jean",
             "nom":"martin",
             "entreprise":"nokia",
+            "adress":{
+                "numero":2,
+                "rue":"Rue Louis de Broglie",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7333, "lng": -3.4667}
+            },
             "themes":["bdd","web"],
             "gps":{"lat": 48.7333, "lng": -3.4667}
         },
