@@ -13,24 +13,22 @@
                 "pays":"france",
                 "gps":{"lat": 48.7333, "lng": -3.4667}
             },
-            "themes":["bdd","web"],
-            "gps":{"lat": 48.7333, "lng": -3.4667}
+            "themes":["bdd","web"]
         },
         {
             "idStage":"s2",
             "prenom":"paul",
             "nom":"dupont",
-            "entreprise":"orange",
+            "entreprise":"orange labs",
             "adresse":{
                 "numero":2,
-                "rue":"Rue Louis de Broglie",
+                "rue":"Avenue Pierre Marzin",
                 "cp":22300,
                 "ville":"lannion",
                 "pays":"france",
-                "gps":{"lat": 48.7333, "lng": -3.4667}
+                "gps":{"lat": 48.7538, "lng": -3.459630000000061}
             },
-            "themes":["reseaux","telecoms"],
-            "gps":{"lat": 48.7333, "lng": -3.4667}
+            "themes":["reseaux","telecoms"]
         },
         {
             "idStage":"s3",
@@ -38,15 +36,14 @@
             "nom":"durant",
             "entreprise":"open",
             "adresse":{
-                "numero":2,
-                "rue":"Rue Louis de Broglie",
+                "numero":4,
+                "rue":"Rue Joseph Libois",
                 "cp":22300,
                 "ville":"lannion",
                 "pays":"france",
-                "gps":{"lat": 48.7333, "lng": -3.4667}
+                "gps":{"lat": 48.7333, "lng": -3.4461900000000014}
             },
-            "themes":["web","mobile"],
-            "gps":{"lat": 48.7333, "lng": -3.4667}
+            "themes":["web","mobile"]
         },
         {
             "idStage":"s4",
@@ -54,15 +51,14 @@
             "nom":"jezezquel",
             "entreprise":"prescom",
             "adresse":{
-                "numero":2,
+                "numero": 0,
                 "rue":"Rue Louis de Broglie",
                 "cp":22300,
                 "ville":"lannion",
                 "pays":"france",
-                "gps":{"lat": 48.7333, "lng": -3.4667}
+                "gps":{"lat": 48.758500, "lng": -3.468424}
             },
-            "themes":["web","telecom"],
-            "gps":{"lat": 48.7333, "lng": -3.4667}
+            "themes":["web","telecom"]
         },
         {
             "idStage":"s5",
@@ -70,15 +66,14 @@
             "nom":"smith",
             "entreprise":"apitic",
             "adresse":{
-                "numero":2,
-                "rue":"Rue Louis de Broglie",
+                "numero":0,
+                "rue":"Rue Galilée",
                 "cp":22300,
                 "ville":"lannion",
                 "pays":"france",
-                "gps":{"lat": 48.7333, "lng": -3.4667}
+                "gps":{"lat": 48.760639, "lng": -3.473179}
             },
-            "themes":["web","database"],
-            "gps":{"lat": 48.7333, "lng": -3.4667}
+            "themes":["web","database"]
         }
     ],
     "heroes":[
