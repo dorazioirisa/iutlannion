@@ -1,4 +1,21 @@
 {
+    "princesses":[
+        {
+            "id":"1",
+            "nom":"blanche",
+            "film":"female",
+            "annee":1938,
+            "traits":["romantique", "travailleuse"]
+        },
+        {
+            "id": 2,
+            "name":"aurore",
+            "movie":"la belle au bois dormant",
+            "year":1959,
+            "traits":["fatiguée","blonde"]
+   
+        }
+    ],
     "stages":[
         {
             "idStage":"s1",
