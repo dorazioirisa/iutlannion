@@ -95,21 +95,21 @@
     ],
     "heroes":[
         {
-            "id": 1,
+            "id": "xm0",
             "heroName": "wolverine",
             "familyName":"howlett",
             "gender":"male",
             "features":["healing factor","superhuman senses"]
         },
         {
-            "id": 2,
+            "id": "sm0",
             "heroName":"spider-man",
             "familyName":"parker",
             "gender":"male",
             "features":["superhuman agility","superhuman senses"]
         },
         {
-            "id": 3,
+            "id": "h0",
             "heroName":"hulk",
             "familyName":"banner",
             "gender":"male",
