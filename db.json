@@ -25,13 +25,6 @@
             }
         },
         {
-            "idStage":"help",
-            "adresse":{
-                "ville":"kuala lumpur",
-                "gps":{"lat": 3.139003, "lng": 101.68685499999992}
-            }
-        },
-        {
             "idStage":"ou",
             "adresse":{
                 "ville":"oklahoma",
