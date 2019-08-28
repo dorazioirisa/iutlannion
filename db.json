@@ -51,6 +51,13 @@
                 "ville":"montreal",
                 "gps":{"lat": 45.5016889, "lng": -73.56725599999999}
             }
+        },
+        {
+            "idStage":"quebec",
+            "adresse":{
+                "ville":"quebec",
+                "gps":{"lat": 52.9399159, "lng": -73.5491361}
+            }
         }
     ],
     "stages":[
