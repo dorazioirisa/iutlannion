@@ -30,6 +30,27 @@
                 "ville":"kuala lumpur",
                 "gps":{"lat": 3.139003, "lng": 101.68685499999992}
             }
+        },
+        {
+            "idStage":"ou",
+            "adresse":{
+                "ville":"oklahoma",
+                "gps":{"lat": 35.0077519, "lng": -97.09287699999999}
+            }
+        },
+        {
+            "idStage":"essex",
+            "adresse":{
+                "ville":"essex",
+                "gps":{"lat": 51.57424469999999, "lng": 0.4856780999999728}
+            }
+        },
+        {
+            "idStage":"montreal",
+            "adresse":{
+                "ville":"montreal",
+                "gps":{"lat": 45.5016889, "lng": -73.56725599999999}
+            }
         }
     ],
     "stages":[
