@@ -16,6 +16,22 @@
    
         }
     ],
+    "etranger"[
+        {
+            "idStage":"it",
+            "adresse":{
+                "ville":"porto",
+                "gps":{"lat": 41.1579438, "lng": -8.629105299999992}
+            }
+        },
+        {
+            "idStage":"help",
+            "adresse":{
+                "ville":"kuala lumpur",
+                "gps":{"lat": 3.139003, "lng": 101.68685499999992}
+            }
+        }
+    ],
     "stages":[
         {
             "idStage":"s1",
