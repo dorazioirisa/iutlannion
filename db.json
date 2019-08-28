@@ -58,6 +58,13 @@
                 "ville":"quebec",
                 "gps":{"lat": 52.9399159, "lng": -73.5491361}
             }
+        },
+        {
+            "idStage":"tokyo",
+            "adresse":{
+                "ville":"tokyo",
+                "gps":{"lat": 35.67619, "lng": 139.6503106}
+            }
         }
     ],
     "stages":[
