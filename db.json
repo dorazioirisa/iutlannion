@@ -62,14 +62,79 @@
     ],
     "stages":[
         {
-            "idstage":"1",
-            "year":2014,
-            "gps":{"lat":41.1579438,"lng":-8.6291053}
+            "idStage":"s1",
+            "prenom":"jean",
+            "nom":"martin",
+            "entreprise":"nokia",
+            "adresse":{
+                "numero":2,
+                "rue":"Rue Louis de Broglie",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7333, "lng": -3.4667}
+            },
+            "themes":["bdd","web"]
         },
         {
-            "idstage":"2",
-            "year":2014,
-            "gps":{"lat":3.139003,"lng":101.686855}
+            "idStage":"s2",
+            "prenom":"paul",
+            "nom":"dupont",
+            "entreprise":"orange labs",
+            "adresse":{
+                "numero":2,
+                "rue":"Avenue Pierre Marzin",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7538, "lng": -3.459630000000061}
+            },
+            "themes":["reseaux","telecoms"]
+        },
+        {
+            "idStage":"s3",
+            "prenom":"marie",
+            "nom":"durant",
+            "entreprise":"open",
+            "adresse":{
+                "numero":4,
+                "rue":"Rue Joseph Libois",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7333, "lng": -3.4461900000000014}
+            },
+            "themes":["web","mobile"]
+        },
+        {
+            "idStage":"s4",
+            "prenom":"alice",
+            "nom":"jezezquel",
+            "entreprise":"prescom",
+            "adresse":{
+                "numero": 0,
+                "rue":"Rue Louis de Broglie",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.758500, "lng": -3.468424}
+            },
+            "themes":["web","telecom"]
+        },
+        {
+            "idStage":"s5",
+            "prenom":"bob",
+            "nom":"smith",
+            "entreprise":"apitic",
+            "adresse":{
+                "numero":0,
+                "rue":"Rue Galilée",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.760639, "lng": -3.473179}
+            },
+            "themes":["web","database"]
         }
     ],
     "heroes":[
