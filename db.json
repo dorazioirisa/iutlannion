@@ -61,39 +61,7 @@
         }
     ],
     "stages":[
-        {"idstage":"1","year":2014 ,"address:{"gps":{"lat":41.1579438,"lng":(-8.6291053)}}},
-        {"idstage":"2","year":2014 ,"address:{"gps":{"lat":3.139003,"lng":101.686855}}},
-        {"idstage":"3","year":2015 ,"address:{"gps":{"lat":3.139003,"lng":101.686855}}},
-        {"idstage":"4","year":2015 ,"address:{"gps":{"lat":35.2225668,"lng":(-97.4394777)}}},
-        {"idstage":"5","year":2015 ,"address:{"gps":{"lat":41.1579438,"lng":(-8.6291053)}}},
-        {"idstage":"6","year":2015 ,"address:{"gps":{"lat":21.0277644,"lng":105.8341598}}},
-        {"idstage":"7","year":2015 ,"address:{"gps":{"lat":21.572798,"lng":105.667647}}},
-        {"idstage":"8","year":2016 ,"address:{"gps":{"lat":35.2225668,"lng":(-97.4394777)}}},
-        {"idstage":"9","year":2016 ,"address:{"gps":{"lat":3.139003,"lng":101.686855}}},
-        {"idstage":"10","year":2016 ,"address:{"gps":{"lat": 10.8230200,"lng":106.6296500}}},
-        {"idstage":"11","year":2016 ,"address:{"gps":{"lat":21.572798,"lng":105.667647}}},
-        {"idstage":"12","year":2016 ,"address:{"gps":{"lat":35.6895000,"lng":139.6917100}}},
-        {"idstage":"13","year":2016 ,"address:{"gps":{"lat":50.850340,"lng":4.351710}}},
-        {"idstage":"14","year":2017 ,"address:{"gps":{"lat": 10.8230200,"lng":106.6296500}}},
-        {"idstage":"15","year":2017 ,"address:{"gps":{"lat":35.6895000,"lng":139.6917100}}},
-        {"idstage":"16","year":2017 ,"address:{"gps":{"lat":35.2225668,"lng":(-97.4394777)}}},
-        {"idstage":"17","year":2017 ,"address:{"gps":{"lat":21.0277644,"lng":105.8341598}}},
-        {"idstage":"18","year":2017 ,"address:{"gps":{"lat":41.1579438,"lng":(-8.6291053)}}},
-        {"idstage":"19","year":2018 ,"address:{"gps":{"lat":35.6895000,"lng":139.6917100}}},
-        {"idstage":"20","year":2018 ,"address:{"gps":{"lat":35.2225668,"lng":(-97.4394777)}}},
-        {"idstage":"21","year":2018 ,"address:{"gps":{"lat":41.1579438,"lng":(-8.6291053)}}},
-        {"idstage":"22","year":2018 ,"address:{"gps":{"lat":21.0277644,"lng":105.8341598}}},
-        {"idstage":"23","year":2018 ,"address:{"gps":{"lat":21.572798,"lng":105.667647}}},
-        {"idstage":"24","year":2018 ,"address:{"gps":{"lat":50.3754565,"lng":(-4.1426565)}}},
-        {"idstage":"25","year":2019 ,"address:{"gps":{"lat":51.481581,"lng":(-3.17909)}}},
-        {"idstage":"26","year":2019 ,"address:{"gps":{"lat":13.7563309,"lng":100.5017651}}},
-        {"idstage":"27","year":2019 ,"address:{"gps":{"lat":49.026866,"lng":12.097775}}},
-        {"idstage":"28","year":2019 ,"address:{"gps":{"lat":41.3850639,"lng":2.1734035}}},
-        {"idstage":"29","year":2019 ,"address:{"gps":{"lat":21.0277644,"lng":105.8341598}}},
-        {"idstage":"30","year":2019 ,"address:{"gps":{"lat":50.3754565,"lng":(-4.1426565)}}},
-        {"idstage":"31","year":2019 ,"address:{"gps":{"lat":3.139003,"lng":101.686855}}},
-        {"idstage":"32","year":2019,"address:{"gps":{"lat": 10.8230200,"lng":106.6296500}}
-        }
+        {"idstage":"1","year":2014 ,"address":{"gps":{"lat":41.1579438,"lng":(-8.6291053)}}},{"idstage":"2","year":2014 ,"address":{"gps":{"lat":3.139003,"lng":101.686855}}},{"idstage":"3","year":2015 ,"address":{"gps":{"lat":3.139003,"lng":101.686855}}},{"idstage":"4","year":2015 ,"address":{"gps":{"lat":35.2225668,"lng":(-97.4394777)}}},{"idstage":"5","year":2015 ,"address":{"gps":{"lat":41.1579438,"lng":(-8.6291053)}}},{"idstage":"6","year":2015 ,"address":{"gps":{"lat":21.0277644,"lng":105.8341598}}},{"idstage":"7","year":2015 ,"address":{"gps":{"lat":21.572798,"lng":105.667647}}},{"idstage":"8","year":2016 ,"address":{"gps":{"lat":35.2225668,"lng":(-97.4394777)}}},{"idstage":"9","year":2016 ,"address":{"gps":{"lat":3.139003,"lng":101.686855}}},{"idstage":"10","year":2016 ,"address":{"gps":{"lat": 10.8230200,"lng":106.6296500}}},{"idstage":"11","year":2016 ,"address":{"gps":{"lat":21.572798,"lng":105.667647}}},{"idstage":"12","year":2016 ,"address":{"gps":{"lat":35.6895000,"lng":139.6917100}}},{"idstage":"13","year":2016 ,"address":{"gps":{"lat":50.850340,"lng":4.351710}}},{"idstage":"14","year":2017 ,"address":{"gps":{"lat": 10.8230200,"lng":106.6296500}}},{"idstage":"15","year":2017 ,"address":{"gps":{"lat":35.6895000,"lng":139.6917100}}},{"idstage":"16","year":2017 ,"address":{"gps":{"lat":35.2225668,"lng":(-97.4394777)}}},{"idstage":"17","year":2017 ,"address":{"gps":{"lat":21.0277644,"lng":105.8341598}}},{"idstage":"18","year":2017 ,"address":{"gps":{"lat":41.1579438,"lng":(-8.6291053)}}},{"idstage":"19","year":2018 ,"address":{"gps":{"lat":35.6895000,"lng":139.6917100}}},{"idstage":"20","year":2018 ,"address":{"gps":{"lat":35.2225668,"lng":(-97.4394777)}}},{"idstage":"21","year":2018 ,"address":{"gps":{"lat":41.1579438,"lng":(-8.6291053)}}},{"idstage":"22","year":2018 ,"address":{"gps":{"lat":21.0277644,"lng":105.8341598}}},{"idstage":"23","year":2018 ,"address":{"gps":{"lat":21.572798,"lng":105.667647}}},{"idstage":"24","year":2018 ,"address":{"gps":{"lat":50.3754565,"lng":(-4.1426565)}}},{"idstage":"25","year":2019 ,"address":{"gps":{"lat":51.481581,"lng":(-3.17909)}}},{"idstage":"26","year":2019 ,"address":{"gps":{"lat":13.7563309,"lng":100.5017651}}},{"idstage":"27","year":2019 ,"address":{"gps":{"lat":49.026866,"lng":12.097775}}},{"idstage":"28","year":2019 ,"address":{"gps":{"lat":41.3850639,"lng":2.1734035}}},{"idstage":"29","year":2019 ,"address":{"gps":{"lat":21.0277644,"lng":105.8341598}}},{"idstage":"30","year":2019 ,"address":{"gps":{"lat":50.3754565,"lng":(-4.1426565)}}},{"idstage":"31","year":2019 ,"address":{"gps":{"lat":3.139003,"lng":101.686855}}},{"idstage":"32","year":2019,"address":{"gps":{"lat": 10.8230200,"lng":106.6296500}}}
     ],
     "heroes":[
         {
