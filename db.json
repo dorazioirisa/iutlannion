@@ -60,17 +60,6 @@
             }
         }
     ],
-    "stages2":[
-        {
-            "idstage":"1",
-            "year":2014 ,
-            "address":{
-                "gps":{"lat":41.1579438,"lng":-8.6291053}
-            }
-        },
-        {"idstage":"2","year":2014 ,"address":{"gps":{"lat":3.139003,"lng":101.686855}}},
-        {"idstage":"3","year":2015 ,"address":{"gps":{"lat":3.139003,"lng":101.686855}}}
-    ],
     "stages":[
         {
             "idStage":"s1",
