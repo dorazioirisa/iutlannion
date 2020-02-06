@@ -61,167 +61,82 @@
         }
     ],
     "stages":[
-        [
-  {
-    "lat": 41.1579438,
-    "long": -8.6291053,
-    "year": 2014
-  },
-  {
-    "lat": 3.139003,
-    "long": 101.686855,
-    "year": 2014
-  },
-  {
-    "lat": 3.139003,
-    "long": 101.686855,
-    "year": 2015
-  },
-  {
-    "lat": 35.2225668,
-    "long": -97.4394777,
-    "year": 2015
-  },
-  {
-    "lat": 41.1579438,
-    "long": -8.6291053,
-    "year": 2015
-  },
-  {
-    "lat": 21.0277644,
-    "long": 105.8341598,
-    "year": 2015
-  },
-  {
-    "lat": 21.572798,
-    "long": 105.667647,
-    "year": 2015
-  },
-  {
-    "lat": 35.2225668,
-    "long": -97.4394777,
-    "year": 2016
-  },
-  {
-    "lat": 3.139003,
-    "long": 101.686855,
-    "year": 2016
-  },
-  {
-    "lat": 10.82302,
-    "long": 106.62965,
-    "year": 2016
-  },
-  {
-    "lat": 21.572798,
-    "long": 105.667647,
-    "year": 2016
-  },
-  {
-    "lat": 35.6895,
-    "long": 139.69171,
-    "year": 2016
-  },
-  {
-    "lat": 50.85034,
-    "long": 4.35171,
-    "year": 2016
-  },
-  {
-    "lat": 10.82302,
-    "long": 106.62965,
-    "year": 2017
-  },
-  {
-    "lat": 35.6895,
-    "long": 139.69171,
-    "year": 2017
-  },
-  {
-    "lat": 35.2225668,
-    "long": -97.4394777,
-    "year": 2017
-  },
-  {
-    "lat": 21.0277644,
-    "long": 105.8341598,
-    "year": 2017
-  },
-  {
-    "lat": 41.1579438,
-    "long": -8.6291053,
-    "year": 2017
-  },
-  {
-    "lat": 35.6895,
-    "long": 139.69171,
-    "year": 2018
-  },
-  {
-    "lat": 35.2225668,
-    "long": -97.4394777,
-    "year": 2018
-  },
-  {
-    "lat": 41.1579438,
-    "long": -8.6291053,
-    "year": 2018
-  },
-  {
-    "lat": 21.0277644,
-    "long": 105.8341598,
-    "year": 2018
-  },
-  {
-    "lat": 21.572798,
-    "long": 105.667647,
-    "year": 2018
-  },
-  {
-    "lat": 50.3754565,
-    "long": -4.1426565,
-    "year": 2018
-  },
-  {
-    "lat": 51.481581,
-    "long": -3.17909,
-    "year": 2019
-  },
-  {
-    "lat": 13.7563309,
-    "long": 100.5017651,
-    "year": 2019
-  },
-  {
-    "lat": 49.026866,
-    "long": 12.097775,
-    "year": 2019
-  },
-  {
-    "lat": 41.3850639,
-    "long": 2.1734035,
-    "year": 2019
-  },
-  {
-    "lat": 21.0277644,
-    "long": 105.8341598,
-    "year": 2019
-  },
-  {
-    "lat": 50.3754565,
-    "long": -4.1426565,
-    "year": 2019
-  },
-  {
-    "lat": 3.139003,
-    "long": 101.686855,
-    "year": 2019
-  },
-  {
-    "lat": 10.82302,
-    "long": 106.62965,
-    "year": 2019
-  }
+  
+{
+            "idStage":"s1",
+            "prenom":"jean",
+            "nom":"martin",
+            "entreprise":"nokia",
+            "adresse":{
+                "numero":2,
+                "rue":"Rue Louis de Broglie",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7333, "lng": -3.4667}
+            },
+            "themes":["bdd","web"]
+        },
+        {
+            "idStage":"s2",
+            "prenom":"paul",
+            "nom":"dupont",
+            "entreprise":"orange labs",
+            "adresse":{
+                "numero":2,
+                "rue":"Avenue Pierre Marzin",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7538, "lng": -3.459630000000061}
+            },
+            "themes":["reseaux","telecoms"]
+        },
+        {
+            "idStage":"s3",
+            "prenom":"marie",
+            "nom":"durant",
+            "entreprise":"open",
+            "adresse":{
+                "numero":4,
+                "rue":"Rue Joseph Libois",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.7333, "lng": -3.4461900000000014}
+            },
+            "themes":["web","mobile"]
+        },
+        {
+            "idStage":"s4",
+            "prenom":"alice",
+            "nom":"jezezquel",
+            "entreprise":"prescom",
+            "adresse":{
+                "numero": 0,
+                "rue":"Rue Louis de Broglie",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.758500, "lng": -3.468424}
+            },
+            "themes":["web","telecom"]
+        },
+        {
+            "idStage":"s5",
+            "prenom":"bob",
+            "nom":"smith",
+            "entreprise":"apitic",
+            "adresse":{
+                "numero":0,
+                "rue":"Rue Galilée",
+                "cp":22300,
+                "ville":"lannion",
+                "pays":"france",
+                "gps":{"lat": 48.760639, "lng": -3.473179}
+            },
+            "themes":["web","database"]
+        }
 ]
 
     ],
