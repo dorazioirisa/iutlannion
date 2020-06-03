@@ -1,38 +1,14 @@
 {
     "series":[
-        {
-            "id":"1",
-            "nom":"blanche",
-            "film":"female",
-            "annee":1938,
-            "traits":["romantique", "travailleuse"]
-        },
-        {
-            "id": 2,
-            "name":"aurore",
-            "movie":"la belle au bois dormant",
-            "year":1959,
-            "traits":["fatiguée","blonde"]
-   
-        }
-    ], 
-    "princesses":[
-        {
-            "id":"1",
-            "nom":"blanche",
-            "film":"female",
-            "annee":1938,
-            "traits":["romantique", "travailleuse"]
-        },
-        {
-            "id": 2,
-            "name":"aurore",
-            "movie":"la belle au bois dormant",
-            "year":1959,
-            "traits":["fatiguée","blonde"]
-   
-        }
-    ],
+    {
+        "id": 1,
+        "nom": "x-men"
+    },
+    {
+        "id": 2,
+        "nom": "x-factor"
+    }
+], 
     "etranger":[
         {
             "idStage":"it",
