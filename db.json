@@ -1,4 +1,14 @@
 {
+    "series":[
+    {
+        "id": 1,
+        "nom": "x-men"
+    },
+    {
+        "id": 2,
+        "nom": "x-factor"
+    }
+],  
     "princesses":[
         {
             "id":"1",
